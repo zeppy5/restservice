@@ -1,0 +1,29 @@
+[
+  {
+    "name": "moderator",
+    "prefix": "&2[MOD]",
+    "permissions": [
+      "minecraft.command.ban",
+      "minecraft.command.kick"
+    ],
+    "priority": "010"
+  },
+  {
+    "name": "developer",
+    "prefix": "&1[DEV]",
+    "permissions": [
+      "minecraft.command.ban",
+      "minecraft.command.kick"
+    ],
+    "priority": "008"
+  },
+  {
+    "name": "administrator",
+    "prefix": "&4[ADMIN]",
+    "permissions": [
+      "minecraft.command.ban",
+      "minecraft.command.kick"
+    ],
+    "priority": "001"
+  }
+]
